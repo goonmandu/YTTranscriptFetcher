@@ -23,7 +23,7 @@ Probably should work with Python 3.8 or newer though.
 pip3 install -r requirements.txt
 
 # This saves all transcripts of a channel to a directory called "transcripts".
-# The repository already has all transcripts for zy0xarchives saved.
+# The repository already has all transcripts for zy0xarchives saved as of 8 August 2024.
 # If that's all you need, you can skip running this command.
 # You can get the channel ID with the channel handle from this website:
 # https://www.streamweasels.com/tools/youtube-channel-id-and-user-id-convertor/
