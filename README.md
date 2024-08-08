@@ -8,6 +8,13 @@ You can find the full license (MIT) in the `LICENSE` file.
 
 Please don't abuse my API key. Pretty please.
 
+## Acknowledgements
+- Nicholas "zy0x" for... well, whatever he said in all the videos.
+  - https://twitch.tv/zy0xxx
+  - https://youtube.com/@zy0x
+- YouTube channel `zy0xarchives` for the saucy VODs.
+  - https://youtube.com/@zy0xarchives
+
 ## Usage
 Tested with Python 3.12.  
 Probably should work with Python 3.8 or newer though.
