@@ -36,6 +36,7 @@ python3 search.py keyword
 ```
 
 Example output of `search.py`:
+
 ![example](assets/example.png)
 
 # ABOBA
